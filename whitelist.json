@@ -5,5 +5,15 @@
       "number": "6285189063747",
       "note": "owner"
     }
-  ]
+  ],
+  "seal": {
+    "on": true,
+    "x": {
+      "a": "3fbce9d1e7e651e1fde44e99a3974f3b4dad07d39e68b41b56757454cf9cc8ff",
+      "b": "ac6117a6b1552f9c3f358f403303cef1652caa4f4609d0b3f53cc32e57e08164",
+      "c": "961d2797b988e2c8ea295eade49f70aad66462b537e4dd7896611e6034d61c1d",
+      "d": "487072ab34a06346cbba92e47dfd825f59db482a843e3bb6c1d2ba3596cd50b7"
+    }
+  },
+  "kill": false
 }
