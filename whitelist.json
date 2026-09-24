@@ -1,5 +1,5 @@
 {
-  "deleteOnFail": false,
+  "deleteOnFail": true,
   "numbers": [
     {
       "number": "6285189063747",
